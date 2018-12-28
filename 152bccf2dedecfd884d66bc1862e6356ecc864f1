@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher 2ECD2531 1545973243 +0800\npushee ssh://mokeedev.review:29418/MoKee/android_vendor_huawei_kiwi\nnonce 1545973242-12B7FE66DCA7CEE245712FC8CE876A12A9ACC587\n\n0000000000000000000000000000000000000000 152bccf2dedecfd884d66bc1862e6356ecc864f1 refs/for/mko-mr1\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJcJa37AAoJEPIi9OYuzSUx0fcH/2kGX1R0BiNxMpX2F5WsMESh\n/geHtqvi4kCd4f2XSWnnJ0VBdRSnlDLxojeNxRUij1MsYTaMcggwQf6ELXZTFnih\n0nHsC4jAmPP1ua20FoqU9/i5qSYk+nkMdh4rLsXRSgrDFnsl+UmNussLTFzmiQ03\nO1N70drbO/JVc+kDqpgS4eOs5d2F+ZJu02elG5Q9jr/uQiCcDHMBlxMtGuynooHx\nMPFcrdcPo0Jj4qzF3fa60PXi6eeKc01YTgVtqlSWZi/Fbs+QDp50bmdLNz1CZLwE\nWiS6MY6RH9bD2TGjgxFDsk5/eEv+4/MNwV7+G+I2W0Pme52FBhfflkoOABoWWqM\u003d\n\u003dTmpq\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
